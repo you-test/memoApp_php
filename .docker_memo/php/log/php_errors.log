@@ -1,0 +1,17 @@
+[20-Oct-2021 11:02:04 Asia/Tokyo] PHP Notice:  Undefined variable: database in /var/www/html/user/action/register.php on line 14
+[20-Oct-2021 11:02:58 Asia/Tokyo] PHP Notice:  Undefined variable: database in /var/www/html/user/action/register.php on line 14
+[20-Oct-2021 11:03:35 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 17
+[25-Oct-2021 11:13:36 Asia/Tokyo] PHP Notice:  Undefined variable: suer_email in /var/www/html/user/action/register.php on line 21
+[25-Oct-2021 11:14:05 Asia/Tokyo] PHP Notice:  Undefined variable: suer_email in /var/www/html/user/action/register.php on line 21
+[25-Oct-2021 11:15:00 Asia/Tokyo] PHP Notice:  Undefined variable: suer_email in /var/www/html/user/action/register.php on line 21
+[25-Oct-2021 11:15:28 Asia/Tokyo] PHP Notice:  Undefined variable: suer_email in /var/www/html/user/action/register.php on line 21
+[25-Oct-2021 11:16:17 Asia/Tokyo] PHP Notice:  Undefined variable: suer_email in /var/www/html/user/action/register.php on line 21
+[25-Oct-2021 11:16:17 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 52
+[25-Oct-2021 11:17:04 Asia/Tokyo] PHP Notice:  Undefined variable: suer_email in /var/www/html/user/action/register.php on line 21
+[25-Oct-2021 12:25:25 Asia/Tokyo] PHP Notice:  Undefined variable: suer_email in /var/www/html/user/action/register.php on line 21
+[25-Oct-2021 12:25:25 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 52
+[26-Oct-2021 13:10:37 Asia/Tokyo] PHP Notice:  Undefined variable: suer_email in /var/www/html/user/action/register.php on line 21
+[26-Oct-2021 15:16:07 Asia/Tokyo] PHP Notice:  Undefined variable: edit_title in /var/www/html/memo/index.php on line 41
+[26-Oct-2021 15:16:07 Asia/Tokyo] PHP Notice:  Undefined variable: edit_content in /var/www/html/memo/index.php on line 41
+[26-Oct-2021 15:19:03 Asia/Tokyo] PHP Notice:  Undefined variable: edit_title in /var/www/html/memo/index.php on line 40
+[26-Oct-2021 15:19:03 Asia/Tokyo] PHP Notice:  Undefined variable: edit_content in /var/www/html/memo/index.php on line 40
